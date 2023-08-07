@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hola mundo para prueba de git"<<endl;
+    cout<<"Hola mundo para prueba2 de git"<<endl;
     return 0;
 }
