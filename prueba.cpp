@@ -19,6 +19,7 @@ int main()
     
     entero3= entero1 * entero2;
 
+    cout << "La multiplicación no es: "<<entero1<< endl;
     cout << "La multiplicación es: "<<entero3<< endl;
 
     return 0;
