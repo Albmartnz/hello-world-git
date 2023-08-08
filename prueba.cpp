@@ -10,5 +10,6 @@ int main()
     cout<<"Prueba Alberto";
     cout<<"Modificación Miguel";
     cout<<"Modificación sin error";
+    cout<<"Modificación sin cin";
     return 0;
 }
