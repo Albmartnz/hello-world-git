@@ -9,6 +9,6 @@ int main()
     cout<<"Prueba5";
     cout<<"Prueba Alberto";
     cout<<"Modificación Miguel";
-    cout<<TEXTO ERRONEO;
+    cout<<"TEXTO ERRONEO";
     return 0;
 }
