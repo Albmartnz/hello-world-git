@@ -8,6 +8,6 @@ int main()
     cout<<"Prueba4";
     cout<<"Prueba5";
     cout<<"Prueba Alberto";
-    cout<<"Prueba Alberto 2";
+    cout<<"Modificación Miguel";
     return 0;
 }
