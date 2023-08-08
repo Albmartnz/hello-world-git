@@ -17,9 +17,9 @@ int main()
     cin >> entero1;
     cin >> entero2;
     
-    entero3= entero1 + entero2;
+    entero3= entero1 * entero2;
 
-    cout << "La suma es: "<<entero3<< endl;
+    cout << "La multiplicación es: "<<entero3<< endl;
 
     return 0;
 }
