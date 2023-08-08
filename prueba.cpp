@@ -10,6 +10,8 @@ int main()
     cout<<"Prueba5";
     cout<<"Prueba Alberto";
     cout<<"Modificación Miguel";
+    cout<<"Modificación sin error";
+    cout<<"Modificación sin cin";
     cout<<"Modificación sin error"<<endl;
     cout<<"Introduzca datos para realizar una cuenta: "
     cin >> entero1;
