@@ -90,3 +90,29 @@ function $initHighlight(block, cls) {
 | Alberto | Martínez | 24 | 1423423B |
 | Gonzalo | Gómez | 24 | 22342343I |
 
+# Citas
+Esto es un texto referente a una cita que se añade debajo
+> Esto es una cita. 
+
+Esto es otro texto no relacionado con la cita anterior.
+
+> Esto es una nueva cita.
+
+# Líneas horizontales divisoras
+
+Esto es un texto que se quiere seperar de los siguiente por una línea. Con ---
+
+----
+Esto es el siguiente texto que se quería separar. El siguiente se separa con ***
+
+*** 
+Esto es un tercer texto serparado. El siguiente con ___
+
+___
+
+# Saltos de línea entre parrafos simples
+Parrafo 1.
+
+Parrafo 2.
+
+Parrafo 3.
