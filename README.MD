@@ -10,3 +10,11 @@ Cabecera H2 con Underline 1
 
 Cabera H1 con Underline 2
 ===
+
+- Formato de Letra *Italica* forma 1.
+- Formato de letra _Italica_ forma 2.
+
+- Formato de letra **bold o strong** forma 1.
+- Formato de letra __bold o strong__ forma 1.
+
+- Formato tachado
